@@ -1,0 +1,38 @@
+# Virtual environment
+venv/
+ENV/
+env/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Jupyter checkpoint folders
+.ipynb_checkpoints/
+
+# Model files
+*.pkl
+
+# Environment files
+*.env
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+logs/
+
+# IDE settings
+.vscode/
+.idea/
+
+# Flask cache
+instance/
+*.db
+
+# Images (optional if you don’t want to upload them)
+*.png
